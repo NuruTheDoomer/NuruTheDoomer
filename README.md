@@ -5,13 +5,12 @@
 ### I'm simply just a Malaysian Doom speedrunner (for the No Monsters and No Monsters 100% Secrets category in particular), and also an MIDI enthusiast (especially a fan of Doom MIDI Packs)
 ##### Don't expect much stuff here for now ;)</p></p>
 
-
-##
+---
 ### So, here is my YouTube channel!</p>
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCfQXYYopafPnNv7fXPntZoQ?style=for-the-badge&logo=youtube&logoColor=red&labelColor=darkgreen&color=yellow)](https://youtube.com/@NuruTheDoomer) <- Click here to check it out! </p>
 #### And also [my redirects page](https://sites.google.com/view/np-redirect-site/nuruthedoomer) to bring you to other places
 
---
+---
 ### And here's my speedrunning pages, [Doom Speed Demos Archive](https://dsdarchive.com/players/nuruthedoomer) (for non-Unity port runs) and [Speedrun.com](https://www.speedrun.com/users/NuruTheDoomer) (for Unity port runs, which is pretty rare)
 
 ---
@@ -30,6 +29,10 @@
 </details>
 
 #### I'm also currently working on the "Malindo Doom" project, which plans to add Malay and Indonesian translation into various Classic Doom source ports
+
+---
+##### I'm also a Minecrafter, you can check my other GitHub profile [here!](https://github.com/NuruddinPlays)
+---
 
 ### If you want to contact me, just message me on discord 
 ![](https://dcbadge.vercel.app/api/shield/909125184211025960)
