@@ -35,7 +35,7 @@
 ---
 
 ### If you want to contact me, just message me on discord 
-![](https://dcbadge.vercel.app/api/shield/909125184211025960)
+![](https://dcbadge.limes.pink/api/shield/909125184211025960)
 ##### (don't worry about the do not disturb status 😉)
 
 <!--
