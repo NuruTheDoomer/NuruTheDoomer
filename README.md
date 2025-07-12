@@ -1,8 +1,8 @@
-### Asalamualaikum and hi! 👋
+### Assalamualaikum and hi! 👋
 
 # It's me, NuruTheDoomer! (it's he/him)
 
-### I'm simply just a Malaysian Doom speedrunner (for the No Monsters and No Monsters 100% Secrets category in particular), and also an MIDI enthusiast (especially a fan of Doom MIDI Packs)
+### I'm simply just a Malaysian Doom speedrunner (for the No Monsters and No Monsters 100% Secrets category in particular), MIDI enthusiast (especially a fan of Doom MIDI Packs), and also a (newbie) mapper
 ##### Don't expect much stuff here for now ;)</p></p>
 
 ---
@@ -11,20 +11,20 @@
 #### And also [my redirects page](https://sites.google.com/view/np-redirect-site/nuruthedoomer) to bring you to other places
 
 ---
-### And here's my speedrunning pages, [Doom Speed Demos Archive](https://dsdarchive.com/players/nuruthedoomer) (for non-Unity port runs) and [Speedrun.com](https://www.speedrun.com/users/NuruTheDoomer) (for Unity port runs, which is pretty rare)
+### I also got a [DoomWiki article](https://doomwiki.org/wiki/NuruTheDoomer), somehow... Check it out! Also check out [my user page there](https://doomwiki.org/wiki/User:NuruTheDoomer) for stuff like the list of maps that I have made ;)
+---
+### And here's my speedrunning pages, [Doom Speed Demos Archive](https://dsdarchive.com/players/nuruthedoomer) (for non-Unity/KEX port runs) and [Speedrun.com](https://www.speedrun.com/users/NuruTheDoomer) (for Unity/KEX port runs, which is pretty rare)
 
 ---
-<details>
+<details open>
 <summary>My Doom preferences</summary>
 <br />
 
 | Categories | Main | Secondary |
 | --- | --- | --- |
-| Source Port | [DSDA-Doom](https://github.com/kraflab/dsda-doom), [Unity Port](https://doomwiki.org/wiki/Doom_Classic_Unity_port) | [GZDoom](https://zdoom.org/downloads), [Russian Doom](https://github.com/Russian-Doom/russian-doom), [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom), [Woof](https://github.com/fabiangreffrath/woof) |
-| Soundfont | [RLNDGM.sf2](https://musical-artifacts.com/artifacts/724), [SGM_v2.01.sf2](https://archive.org/details/SGM-V2.01) | Gravis Ultrasound, OPL Synth, [Arachno Soundfont](https://www.arachnosoft.com/main/download.php?id=soundfont-sf2) |
-| Speedrun Categories | [DSDA] No Monsters (& 100% Secrets)<br />[Unity Port] Any% | Any other categories |
-|  |  |  |
-|  |  |  |
+| Source Port | [DSDA-Doom](https://github.com/kraflab/dsda-doom), [Woof](https://github.com/fabiangreffrath/woof), [DOOM + DOOM II](https://doomwiki.org/wiki/Doom_%2B_Doom_II) (aka KEXDoom) | [GZDoom](https://zdoom.org/downloads) |
+| Soundfont | [RLNDGM.sf2](https://musical-artifacts.com/artifacts/724), Gravis Ultrasound ([eawpats.sf2](https://musical-artifacts.com/artifacts/3101)), [SGM_v2.01.sf2](https://archive.org/details/SGM-V2.01) | OPL Synth, [Arachno Soundfont](https://www.arachnosoft.com/main/download.php?id=soundfont-sf2) |
+| Speedrun Categories | [DSDA/KEXDoom] No Monsters (& 100% Secrets)<br/>[Unity Doom] Any% | Any other categories |
 
 </details>
 
@@ -36,7 +36,7 @@
 
 ### If you want to contact me, just message me on discord 
 ![](https://dcbadge.limes.pink/api/shield/909125184211025960)
-##### (don't worry about the do not disturb status 😉)
+##### (don't worry about the do not disturb status, just message me and I might reply 😉)
 
 <!--
 **NuruTheDoomer/NuruTheDoomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
