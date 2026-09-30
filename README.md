@@ -5,7 +5,7 @@ Don't expect much stuff here for now ;)</p></p>
 
 ---
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCfQXYYopafPnNv7fXPntZoQ?style=for-the-badge&logo=youtube&logoColor=red&labelColor=darkgreen&color=yellow)](https://youtube.com/@NuruTheDoomer)</p>
-I have a YouTube channel where I uploaded Doom speedruns and soundtracks, as well as showcases of my own map, my Ironman runs, and all sorts of Doom-related stuff from time to time. Click the badge above to check it out!</p>
+I have a YouTube channel where I uploaded Doom speedruns and soundtracks, as well as showcases of my own map, my Ironman runs, and all sorts of Doom-related stuff from time to time. Click the badge above to check it out! (it used to show the subscriber count but no longer does... you can still click on it though)</p>
 Here's [my redirects page](https://sites.google.com/view/np-redirect-site/nuruthedoomer) to help bring you to other places I'm just so happen to be in. Also, I got a [DoomWiki article](https://doomwiki.org/wiki/NuruTheDoomer), somehow... Check it out! And while you're there check out [my user page](https://doomwiki.org/wiki/User:NuruTheDoomer) for stuff like the list of all the maps that I have made ;)
 
 > I'm also currently working on the "Malindo Doom" project, which plans to add Malay and Indonesian translation for various Classic Doom source ports (currently on hold for the time being)
@@ -34,6 +34,6 @@ For more fancy stats of my DSDArchive runs, checkout [this website](https://beta
 > Aside from Classic Doom, I am also a Minecrafter, you can check out my other GitHub profile [here!](https://github.com/NuruddinPlays)
 ---
 
-If you want to contact me, just message me on Discord </p>
+If you want to contact me, just message me on Discord! (Make sure to **state your reason** for messaging me in your **first message**!) </p>
 ![](https://dcbadge.limes.pink/api/shield/909125184211025960)</p>
 (don't worry about the do not disturb status, just message me and I might reply 😉)
